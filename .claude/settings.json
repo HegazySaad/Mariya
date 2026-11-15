@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "claude-code-setup@anthropic-plugin-directory": true,
+    "setup-audit@anthropic-plugin-directory": true
+  }
+}

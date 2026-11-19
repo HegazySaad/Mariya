@@ -1,0 +1,1 @@
+2026-11-19T09:42:00.648Z | claudex, claudex-loop, instagram reel, vidiq, cross-model review, gpt-6 astra | Goal: analyze IG reel Df5WQmpties (ClaudeX skill promo), find real skill, verify claims, install. Core intent: user want | 2026-11-19/handoff-2026-11-19T09-42-00-648Z.md
